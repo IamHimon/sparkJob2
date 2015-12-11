@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="svmTCdata">
+    <output-path>$PROJECT_DIR$/out/artifacts/svmTCdata</output-path>
+    <root id="archive" name="svmTCdata.jar">
+      <element id="module-output" name="sparkJob2" />
+    </root>
+  </artifact>
+</component>
